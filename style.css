@@ -4,6 +4,10 @@ h1 {
 p {
     font-family: 'Courier New', Courier, monospace;
 }
+button {
+    background-color: tomato;
+    border-radius: 1em;
+}
 hr {
     border: thin green outset;
 }
