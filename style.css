@@ -1,0 +1,9 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+hr {
+    border: thin green outset;
+}
